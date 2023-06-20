@@ -1,6 +1,8 @@
 # Real-time-Sign-Language-Recognition-Using-OpenCV-and-Deep-Learning
 Employed OpenCV for video processing and hand-detection in real-time. Utilized Keras with TensorFlow backend to train a deep learning model for sign language classification on a dataset of 2900 300x300 images. This model offers instantaneous, precise sign language recognition. This repository contains a Python script that captures video from a webcam, detects hands in the video frames, classifies the detected hand gesture, and overlays the identified gesture onto the original video frame.
 
+![Screenshot 2019-08-19 at 9 51 25 AM](https://github.com/DevRishabhSinha/Real-time-Sign-Language-Recognition-Using-OpenCV-and-Deep-Learning/assets/127776575/c868735c-20d3-4788-a71d-3d249a150e5e)
+
 # Project Background
 Hand gesture recognition has a wide array of applications, from sign language interpretation to human-computer interaction. In this project, we utilize computer vision and machine learning techniques to detect and classify 26 different hand gestures that correspond to the 26 letters of the English alphabet.
 
