@@ -4,6 +4,8 @@ Employed OpenCV for video processing and hand-detection in real-time. Utilized K
 # Project Background
 Hand gesture recognition has a wide array of applications, from sign language interpretation to human-computer interaction. In this project, we utilize computer vision and machine learning techniques to detect and classify 26 different hand gestures that correspond to the 26 letters of the English alphabet.
 
+![The-26-hand-signs-of-the-ASL-Language](https://github.com/DevRishabhSinha/Real-time-Sign-Language-Recognition-Using-OpenCV-and-Deep-Learning/assets/127776575/f18d3cf6-7536-48f7-ad9d-cd3e2b785f9e)
+
 # Underlying Technologies
 The Python script relies on the following libraries:
 
